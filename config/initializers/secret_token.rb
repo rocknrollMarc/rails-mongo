@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-RailsMongo::Application.config.secret_token = '88a9612b7bfdfc915046791538b65db85d878c54463760b844b03d6ffd6b78d890978a5ea72721c6d787e953665b1cc96b909a9f5810e29fef0cd8af289e8ee3'
+RailsMongo::Application.config.secret_token = '731d90235def00a61f9911e3754a5c8e94a1106e6d3b509bfdf0cb75abdd8b087d3f282c78a4eaf7e3640caf6e3d7d8e1ffd2e49f82611bb082a0ab7395c3413'
